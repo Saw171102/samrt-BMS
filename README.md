@@ -85,6 +85,4 @@ the "copyright" line and a pointer to where the full license is found.
 
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <https://www.gnu.org/licenses/>.
-yaml
-Copy
-Edit
+siddhesh anil wankhede
